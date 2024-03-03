@@ -15,44 +15,48 @@
 - [Funcionalidades do Projeto](#funcionalidades-do-projeto)
 - [Tecnologias Utilizadas](#tecnolgias-utilizadas)
 - [Layouts](#layouts)
-  - [Desktop Layout](#desktop-layout)
-  - [Tablet Layout](#tablet-layout)
-  - [Mobile Layout](#mobile-layout)
-- [Adaptações](#adaptações)
 - [Autor](#autor)
 
 ## Sobre o Projeto
 
-
+Projeto interessante que para ensinar o que foi proposto desenvolve um pequeno e simples jogo. Esse projeto foi feito com as instruções de [**Beatriz Moura**](https://github.com/beatrizmouradev) e [**Nayanne Batista**](https://github.com/NayanneBatista).
 
 ## Objetivos do Projeto
 
-
+- Ensinar classes e heranças em aplicações com orientação a objetos;
+- Aprender a criar classes no JavaScript;
+- Saber como utilizar extends e super na herança;
+- Sobrescrever métodos com polimorfismo;
+- Criar e acessar propriedades e métodos estáticos
+- Entender como criar propriedadades privadas com o encapsulamento;
+- Adicionar getters e stters às classes.
 
 ## Funcionalidades do Projeto
 
+<img src="https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/devdragons-level.png" alt="Interface de Level do Dev&Dragon"> 
 
+- Há dois botões:
+  - **-** Faz que o level diminua, entretanto o limite é 1.
+  - **+** Faz que o level aumente, entretanto o limite é 10.
 
+- **Clicar nos personagens** faz com que ele seja selecionado e receba um destaque. Só é possivel selecionar 2 personagens simultaneamente.
+- **Duelar** só funciona se 2 personagens estiverem selecionados. Se essa condição for cumprida irá ocorrer o duela. As 2 resultados possiveis:
+  - **Empate!!!** Ocorre quando os 2 personagens possui o mesmo nível;
+  - **[Personagem] é o vencedor!** Ocorre quando o personagem vencendor tem nivel superior ao outro.
+    
 ## Tecnolgias Utilizadas
 
-
+1. HTML
+2. CSS
+3. JS
 
 ## Layouts
 
-### Desktop Layout
-
-### Tablet Layout
-
-### Mobile Layout
-
-## Adaptações
+**Width 1920px:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/devedragons-1920px.jpg
 
 ## Autor
 
-- Nome(s), redes e forma de contato. 
-- Talvez um breve resumo sobre cada um.
-
-Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. [Falar sobre meu papel no projeto, seu eu fiz tudo ou só modifiquei.
+Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. Por meio das orientações das duas instrutoras, [**Beatriz Moura**](https://github.com/beatrizmouradev) e [**Nayanne Batista**](https://github.com/NayanneBatista), aprofundei no conhecimento de classes e heranças que foram ensinados com esse projeto. Toda a parte HTML e CSS já estava pronta.
 
 Logo abaixo estão os meus principais links, fique a vontade de acessar o que mais lhe interessar:
 
