@@ -33,9 +33,9 @@ Projeto interessante que para ensinar o que foi proposto desenvolve um pequeno e
 
 ## Funcionalidades do Projeto
 
-<img src="https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/devdragons-level.png" alt="Interface de Level do Dev&Dragon"> 
 
-- Há dois botões:
+
+- <img src="https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/devdragons-level.png" alt="Interface de Level do Dev&Dragon">  Há dois botões:
   - **-** Faz que o level diminua, entretanto o limite é 1.
   - **+** Faz que o level aumente, entretanto o limite é 10.
 
